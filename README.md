@@ -11,7 +11,6 @@ This project was created as part of an internship problem statement and demonstr
 - 🏋️‍♂️ Uses prompt engineering to simulate a fitness expert
 - 🧩 Inputs like age, weight, fitness goal are used to generate plans
 - 🤖 Built and tested entirely inside IBM watsonx Prompt Lab
-- 📝 No API, frontend, or backend — prompt-only system
 
 ---
 
@@ -25,7 +24,6 @@ The full project report (PDF) is included in this repository:
 ## 🎓 Internship Submission
 
 This project was submitted as part of the IBM internship evaluation requirements.  
-No source code is associated — it is a concept and prompt design demonstration using IBM’s cloud-native AI tools.
 
 ---
 
